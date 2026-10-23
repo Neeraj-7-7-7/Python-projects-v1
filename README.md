@@ -1,6 +1,6 @@
 # 🐍 Python Projects
 
-A collection of my Python projects, experiments, and applications built while learning and exploring Python programming, automation, computer vision, artificial intelligence, and software development.
+A collection of my Python projects, experiments, and applications built while learning and exploring Python programming, automation, computer vision, artificial intelligence.
 
 ## 📌 About
 
