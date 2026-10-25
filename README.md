@@ -14,7 +14,7 @@ This repository contains various Python projects I've developed to strengthen my
 - NumPy
 - PyTorch
 - Speech Recognition
--Pywhatkit
+- Pywhatkit
 - AI & Machine Learning
 - Automation
 - Hardware & IoT Integration
