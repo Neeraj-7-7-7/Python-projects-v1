@@ -2,6 +2,7 @@
 
 A collection of my Python projects, experiments, and applications built while learning and exploring Python programming, automation, computer vision, artificial intelligence.
 
+
 ## 📌 About
 This repository contains various Python projects I've developed to strengthen my programming skills and explore real-world applications of Python. The projects range from beginner-friendly programs to more advanced applications involving **automation, computer vision, and hardware integration**.
 
